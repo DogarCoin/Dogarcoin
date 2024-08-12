@@ -1,0 +1,21 @@
+Advanced properties
+Last PoW block
+block 1000
+Superblock reward
+99%
+Masternode reward
+99%
+Masternode amount
+1000 coins
+Masternode confirmations
+3 blocks
+Coinbase maturity
+3 ( + 1 default confirmation) blocks
+Target spacing
+1 minutes
+Target timespan
+1 minutes
+Transaction confirmations
+3 blocks
+Timestamp
+10 agustus 2024
