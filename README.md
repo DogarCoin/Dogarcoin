@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Coin properties
+Purchase type
+Free coin
+Source branch
+3.3
+Algorithm
+Quark Proof of Work and Proof of Stake
+Coin name
+DOGAR
+Coin abbreviation
+DGC
+Public address letter
+2
+RPC port
+18833
+P2P port
+18834
+Block reward
+10000 coins
+Block reward (PoS)
+5000 coins
